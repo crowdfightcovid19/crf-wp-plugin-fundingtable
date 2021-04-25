@@ -1,7 +1,4 @@
 # crf-wp-plugin-fundingtable
 
-## License
+Plugin used to coordinate efforts in https://crowdfightcovid19.org/resources/funding-for-covid19-research-projects/
 
-**GPL version 2**
-
-Complete text can be found on the LICENSE file or on [the site of the Free Software Foundation](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
